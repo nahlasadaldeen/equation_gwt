@@ -1,0 +1,2 @@
+serviceClass: squ_equ_gwt.client.EquService
+path: AF49C74F25B44AB2EBA1097C6E68BC8A.gwt.rpc

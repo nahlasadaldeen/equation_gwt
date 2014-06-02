@@ -1,0 +1,2 @@
+serviceClass: squ_equ_gwt.client.GreetingService
+path: 944A611A509F620AB4C0B560E4B00E9B.gwt.rpc
